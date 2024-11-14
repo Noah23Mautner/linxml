@@ -1,0 +1,7 @@
+C:\Users\Učenik\Documents\linq2xml\linq2xml\bin\Debug\linq2xml.exe.config
+C:\Users\Učenik\Documents\linq2xml\linq2xml\bin\Debug\linq2xml.exe
+C:\Users\Učenik\Documents\linq2xml\linq2xml\bin\Debug\linq2xml.pdb
+C:\Users\Učenik\Documents\linq2xml\linq2xml\obj\Debug\linq2xml.csproj.AssemblyReference.cache
+C:\Users\Učenik\Documents\linq2xml\linq2xml\obj\Debug\linq2xml.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Documents\linq2xml\linq2xml\obj\Debug\linq2xml.exe
+C:\Users\Učenik\Documents\linq2xml\linq2xml\obj\Debug\linq2xml.pdb

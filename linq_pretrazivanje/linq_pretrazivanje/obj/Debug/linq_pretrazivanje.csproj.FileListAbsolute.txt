@@ -1,0 +1,7 @@
+C:\Users\Učenik\Documents\linq_pretrazivanje\linq_pretrazivanje\bin\Debug\linq_pretrazivanje.exe.config
+C:\Users\Učenik\Documents\linq_pretrazivanje\linq_pretrazivanje\bin\Debug\linq_pretrazivanje.exe
+C:\Users\Učenik\Documents\linq_pretrazivanje\linq_pretrazivanje\bin\Debug\linq_pretrazivanje.pdb
+C:\Users\Učenik\Documents\linq_pretrazivanje\linq_pretrazivanje\obj\Debug\linq_pretrazivanje.csproj.AssemblyReference.cache
+C:\Users\Učenik\Documents\linq_pretrazivanje\linq_pretrazivanje\obj\Debug\linq_pretrazivanje.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Documents\linq_pretrazivanje\linq_pretrazivanje\obj\Debug\linq_pretrazivanje.exe
+C:\Users\Učenik\Documents\linq_pretrazivanje\linq_pretrazivanje\obj\Debug\linq_pretrazivanje.pdb
